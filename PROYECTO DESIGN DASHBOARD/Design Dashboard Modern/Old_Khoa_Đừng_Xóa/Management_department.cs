@@ -1,0 +1,32 @@
+﻿using Bunifu.UI.WinForms;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Design_Dashboard_Modern
+{
+    public partial class Management_department : Form
+    {
+        public Management_department()
+        {
+            InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Add_department add = new Add_department();
+            add.Show();
+        }
+
+        private void txHoTen_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

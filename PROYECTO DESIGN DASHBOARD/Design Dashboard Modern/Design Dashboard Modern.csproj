@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D8BCAAC-874B-4730-B1DC-A3147345B29B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Design_Dashboard_Modern</RootNamespace>
+    <AssemblyName>Design Dashboard Modern</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.11.5.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\BUNIFU UI\Bunifu.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForm.BunifuShadowPanel">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox, Version=1.11.5.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.ToggleSwitch">
+      <HintPath>..\..\BUNIFU UI\Bunifu.UI.WinForms.ToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\BUNIFU UI\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.11.7.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.11.7\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Doc">
+      <HintPath>..\..\e-iceblue\Spire.Doc\Bin\NET4.6\Spire.Doc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="xNet">
+      <HintPath>..\..\..\..\..\xNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account\Add_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account\Add_account.Designer.cs">
+      <DependentUpon>Add_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\ChangePassword.cs" />
+    <Compile Include="DTO\FullList.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="DataToSend.cs" />
+    <Compile Include="DTO\InforReportView.cs" />
+    <Compile Include="DTO\Login.cs" />
+    <Compile Include="DTO\UserInfor.cs" />
+    <Compile Include="Khoa\EditMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\EditMonHoc.Designer.cs">
+      <DependentUpon>EditMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa\QuanLyMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\QuanLyMonHoc.Designer.cs">
+      <DependentUpon>QuanLyMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\BoMon.cs" />
+    <Compile Include="Models\ChucVu.cs" />
+    <Compile Include="Models\GiangDay.cs" />
+    <Compile Include="Models\GiangVien.cs" />
+    <Compile Include="Models\HuongDanTotNghiep.cs" />
+    <Compile Include="Models\Khoa.cs" />
+    <Compile Include="Models\ListGiangvienBomon.cs" />
+    <Compile Include="Models\MienGiam.cs" />
+    <Compile Include="Models\MonHoc.cs" />
+    <Compile Include="Models\NghienCucKhoaHoc.cs" />
+    <Compile Include="Old_Khoa_Đừng_Xóa\Add_department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old_Khoa_Đừng_Xóa\Add_department.Designer.cs">
+      <DependentUpon>Add_department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Confirm_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Confirm_Report.Designer.cs">
+      <DependentUpon>Confirm_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Form\Design Dashboard Modern.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Form\Design Dashboard Modern.Designer.cs">
+      <DependentUpon>Design Dashboard Modern.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Don.cs" />
+    <Compile Include="Info\fFixInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info\fFixInfo.Designer.cs">
+      <DependentUpon>fFixInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info\fInfor.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Info\fInfor.Designer.cs">
+      <DependentUpon>fInfor.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Login\fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\fReAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\fReAccount.Designer.cs">
+      <DependentUpon>fReAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiangDay.cs" />
+    <Compile Include="Khoa\EditKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\EditKhoa.Designer.cs">
+      <DependentUpon>EditKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa\QuanLyBoMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\QuanLyBoMon.Designer.cs">
+      <DependentUpon>QuanLyBoMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa\QuanLyKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\QuanLyKhoa.Designer.cs">
+      <DependentUpon>QuanLyKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa\SuaKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\SuaKhoa.Designer.cs">
+      <DependentUpon>SuaKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa\ThemBoMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\ThemBoMon.Designer.cs">
+      <DependentUpon>ThemBoMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa\ThemKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa\ThemKhoa.Designer.cs">
+      <DependentUpon>ThemKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Management_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account\Management_Account.Designer.cs">
+      <DependentUpon>Management_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old_Khoa_Đừng_Xóa\Management_department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old_Khoa_Đừng_Xóa\Management_department.Designer.cs">
+      <DependentUpon>Management_department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\DocWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\DocWord.Designer.cs">
+      <DependentUpon>DocWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\FormBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\FormBaoCao.Designer.cs">
+      <DependentUpon>FormBaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old_Dung_xoa\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old_Dung_xoa\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Account\Add_account.resx">
+      <DependentUpon>Add_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\EditMonHoc.resx">
+      <DependentUpon>EditMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\QuanLyMonHoc.resx">
+      <DependentUpon>QuanLyMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old_Khoa_Đừng_Xóa\Add_department.resx">
+      <DependentUpon>Add_department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Confirm_Report.resx">
+      <DependentUpon>Confirm_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Form\Design Dashboard Modern.resx">
+      <DependentUpon>Design Dashboard Modern.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info\fFixInfo.resx">
+      <DependentUpon>fFixInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info\fInfor.resx">
+      <DependentUpon>fInfor.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\fReAccount.resx">
+      <DependentUpon>fReAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\EditKhoa.resx">
+      <DependentUpon>EditKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\QuanLyBoMon.resx">
+      <DependentUpon>QuanLyBoMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\QuanLyKhoa.resx">
+      <DependentUpon>QuanLyKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\SuaKhoa.resx">
+      <DependentUpon>SuaKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\ThemBoMon.resx">
+      <DependentUpon>ThemBoMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa\ThemKhoa.resx">
+      <DependentUpon>ThemKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account\Management_Account.resx">
+      <DependentUpon>Management_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old_Khoa_Đừng_Xóa\Management_department.resx">
+      <DependentUpon>Management_department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report\DocWord.resx">
+      <DependentUpon>DocWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\FormBaoCao.resx">
+      <DependentUpon>FormBaoCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old_Dung_xoa\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

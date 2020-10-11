@@ -1,0 +1,572 @@
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\rhaeg\source\repos\FormsView\Design Dashboard Modern\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.Core.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.resx
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.cs
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.Designer.cs
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.exe
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\FormThongKe.exe
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Main.exe
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Test2.exe
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.Core.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.pdb
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.exe.config
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\FormThongKe.pdb
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\FormThongKe.exe.config
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Main.pdb
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Main.exe.config
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Test2.pdb
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Test2.exe.config
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Dell\Desktop\machine\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.resx
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.cs
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.Designer.cs
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.Core.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.resx
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.cs
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.Designer.cs
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.Core.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.exe
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\FormThongKe.exe
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Main.exe
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Management_department.exe
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Test2.exe
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.pdb
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\fInfor.exe.config
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\FormThongKe.pdb
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\FormThongKe.exe.config
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Main.pdb
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Main.exe.config
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Management_department.pdb
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Management_department.exe.config
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Test2.pdb
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Test2.exe.config
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Form1.resources
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\trand\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_account.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_department.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Confirm_Report.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fInfor.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_Account.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_department.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Report.resources
+C:\Users\Dell\Desktop\Project_Y4\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fFixInfo.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.Core.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_account.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_department.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Confirm_Report.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fFixInfo.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fInfor.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_Account.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_department.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Report.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fLogin.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fReAccount.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.FormChinh.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.EditKhoa.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyBoMon.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyKhoa.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.SuaKhoa.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemBoMon.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemKhoa.resources
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.resx
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.cs
+C:\Users\trand\Desktop\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.Designer.cs
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.resx
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.cs
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.Designer.cs
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.Core.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe.config
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_account.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_department.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Confirm_Report.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.FormChinh.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fFixInfo.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fInfor.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fLogin.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fReAccount.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.EditKhoa.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyBoMon.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyKhoa.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.SuaKhoa.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemBoMon.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemKhoa.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_Account.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_department.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Report.resources
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Dell\Downloads\Design-Dashboard-Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.resx
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.cs
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.Designer.cs
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.Core.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\RestSharp.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\xNet.dll
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\RestSharp.xml
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csprojAssemblyReference.cache
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_account.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_department.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Confirm_Report.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.FormChinh.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fFixInfo.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fInfor.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fLogin.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fReAccount.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.EditKhoa.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyBoMon.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyKhoa.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.SuaKhoa.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemBoMon.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemKhoa.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_Account.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_department.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Report.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.GenerateResource.cache
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.csproj.CopyComplete
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyMonHoc.resources
+C:\Users\linhm\Documents\Học tập\TTCSCN\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.EditMonHoc.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_account.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.EditMonHoc.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyMonHoc.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Add_department.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Confirm_Report.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.FormChinh.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fFixInfo.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fInfor.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fLogin.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.fReAccount.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.EditKhoa.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyBoMon.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.QuanLyKhoa.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.SuaKhoa.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemBoMon.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.ThemKhoa.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_Account.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Management_department.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.DocWord.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Report.resources
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.resx
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.cs
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Info\fInfor.Designer.cs
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\RestSharp.dll
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\RestSharp.xml
+C:\Users\trand\Desktop\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.FormBaoCao.resources
